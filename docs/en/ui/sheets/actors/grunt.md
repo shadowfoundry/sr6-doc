@@ -1,3 +1,10 @@
+---
+tags:
+  - interface
+  - sheet
+  - actor
+---
+
 # General
 
 This is the general description of the `grunt` sheet, a type of `actor` of the system.

@@ -1,3 +1,10 @@
+---
+tags:
+  - interface
+  - fiche
+  - acteur
+---
+
 # Généralités
 
 Ceci est la description générale de la fiche `grunt`, un type d'`acteur` au sein du système.
