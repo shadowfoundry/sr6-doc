@@ -10,11 +10,15 @@ theme:
     - toc.follow
     - toc.integrate
     - navigation.top
+
 extra:
   alternate:
     - name: English
-      link: /en/
+      link: /sr6-doc/en/
       lang: en
-    - name: French
-      link: /fr/
+    - name: Français
+      link: /sr6-doc/fr/
       lang: fr
+
+markdown_extensions:
+  - pymdownx.keys
