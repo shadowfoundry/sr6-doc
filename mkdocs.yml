@@ -11,14 +11,14 @@ theme:
     - toc.integrate
     - navigation.top
 
-extra:
-  alternate:
-    - name: English
-      link: /sr6-doc/en/
-      lang: en
-    - name: Français
-      link: /sr6-doc/fr/
-      lang: fr
-
 markdown_extensions:
   - pymdownx.keys
+
+nav:
+  - English Documentation:
+    - en/index.md
+    - User Interface:
+      - en/ui/index.md
+      - Character Sheet: en/ui/character_sheet.md
+  - Documentation Française:
+    - fr/index.md

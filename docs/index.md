@@ -1,1 +1,1 @@
-# Welcome to our documentation  
+Welcome to our documentation
