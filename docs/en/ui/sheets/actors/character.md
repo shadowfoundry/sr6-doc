@@ -1,4 +1,8 @@
+# General
 
+This is the general description of the `character` sheet, a type of `actor` of the system.
+
+# FAQ
 
 ## How do I reset a condition monitor?
 

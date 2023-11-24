@@ -19,6 +19,19 @@ nav:
     - en/index.md
     - User Interface:
       - en/ui/index.md
-      - Character Sheet: en/ui/character_sheet.md
+      - Sheets:
+        - Actors Sheets:
+          - Character Sheet: en/ui/sheets/actors/character.md
+          - Grunt Sheet: en/ui/sheets/actors/grunt.md
+        - Items Sheets:
+          - Device Sheet: en/ui/sheets/items/device.md
   - Documentation Française:
     - fr/index.md
+    - Interface Utilisateur:
+      - en/ui/index.md
+      - Fiches:
+        - Fiches d'Acteurs:
+          - Character Sheet: fr/iu/fiches/acteurs/personnage.md
+          - Grunt Sheet: fr/iu/fiches/acteurs/grunt.md
+        - Fiches d'Objets:
+          - Fiche d'Appareil: fr/iu/fiches/objets/appareil.md
