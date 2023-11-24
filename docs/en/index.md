@@ -1,0 +1,1 @@
+Welcome to the english documentation of the Shadowrun 6 system for Foundry VTT.
