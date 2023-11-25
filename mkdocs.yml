@@ -26,8 +26,6 @@ plugins:
 
 markdown_extensions:
   - pymdownx.keys
-  - toc:
-      permalink: true
 
 nav:
   - English Documentation:
