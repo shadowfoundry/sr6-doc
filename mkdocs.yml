@@ -52,8 +52,8 @@ nav:
       - en/interface/index.md
       - Fiches:
         - Fiches d'Acteurs:
-          - Character Sheet: fr/interface/fiches/acteurs/personnage.md
-          - Grunt Sheet: fr/interface/fiches/acteurs/grunt.md
+          - Fiche de Personnage: fr/interface/fiches/acteurs/personnage.md
+          - Fiche de Brute: fr/interface/fiches/acteurs/grunt.md
         - Fiches d'Objets:
           - Fiche d'Appareil: fr/interface/fiches/objets/appareil.md
   - Tags:
