@@ -29,10 +29,10 @@ markdown_extensions:
 nav:
   - English Documentation:
     - en/index.md
-    - System Entities:
-      - en/entities/index.md
-      - Actors: en/entities/actors/index.md
-      - Items: en/entities/items/index.md
+    - System:
+      - Entities:
+        - Actor Entity: en/entities/actors/index.md
+        - Item Entity: en/entities/items/index.md
     - User Interface:
       - en/interface/index.md
       - Sheets:
@@ -44,10 +44,10 @@ nav:
 
   - Documentation Française:
     - fr/index.md
-    - Entités du système:
-      - fr/entites/index.md
-      - Acteurs: fr/entites/acteurs/index.md
-      - Objets: fr/entites/objets/index.md
+    - Système:
+      - Entités:
+        - Entité Acteur: fr/entites/acteurs/index.md
+        - Entité Objet: fr/entites/objets/index.md
     - Interface Utilisateur:
       - en/interface/index.md
       - Fiches:
