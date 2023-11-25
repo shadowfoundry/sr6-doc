@@ -41,6 +41,7 @@ nav:
           - Grunt Sheet: en/interface/sheets/actors/grunt.md
         - Items Sheets:
           - Device Sheet: en/interface/sheets/items/device.md
+
   - Documentation Française:
     - fr/index.md
     - Entités du système:
@@ -51,7 +52,7 @@ nav:
       - Fiches:
         - Fiches d'Acteurs:
           - Fiche de Personnage: fr/interface/fiches/acteurs/personnage.md
-          - Fiche de Brute: fr/interface/fiches/acteurs/grunt.md
+          - Fiche de Brute: fr/interface/fiches/acteurs/brute.md
         - Fiches d'Objets:
           - Fiche d'Appareil: fr/interface/fiches/objets/appareil.md
   - Tags:
