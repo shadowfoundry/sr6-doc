@@ -32,23 +32,31 @@ markdown_extensions:
 nav:
   - English Documentation:
     - en/index.md
+    - System Entities:
+      - en/entities/index.md
+      - Actors: en/entities/actors/index.md
+      - Items: en/entities/items/index.md
     - User Interface:
-      - en/ui/index.md
+      - en/interface/index.md
       - Sheets:
         - Actors Sheets:
-          - Character Sheet: en/ui/sheets/actors/character.md
-          - Grunt Sheet: en/ui/sheets/actors/grunt.md
+          - Character Sheet: en/interface/sheets/actors/character.md
+          - Grunt Sheet: en/interface/sheets/actors/grunt.md
         - Items Sheets:
-          - Device Sheet: en/ui/sheets/items/device.md
+          - Device Sheet: en/interface/sheets/items/device.md
   - Documentation Française:
     - fr/index.md
+    - Entités du système:
+      - fr/entites/index.md
+      - Acteurs: fr/entites/acteurs/index.md
+      - Objets: fr/entites/objets/index.md
     - Interface Utilisateur:
-      - en/ui/index.md
+      - en/interface/index.md
       - Fiches:
         - Fiches d'Acteurs:
-          - Character Sheet: fr/iu/fiches/acteurs/personnage.md
-          - Grunt Sheet: fr/iu/fiches/acteurs/grunt.md
+          - Character Sheet: fr/interface/fiches/acteurs/personnage.md
+          - Grunt Sheet: fr/interface/fiches/acteurs/grunt.md
         - Fiches d'Objets:
-          - Fiche d'Appareil: fr/iu/fiches/objets/appareil.md
+          - Fiche d'Appareil: fr/interface/fiches/objets/appareil.md
   - Tags:
     - tags.md

@@ -7,7 +7,7 @@ tags:
 
 # Généralités
 
-Ceci est la description générale de la fiche `grunt`, un type d'`acteur` au sein du système.
+Ceci est la description générale de la fiche `brute`, un type d'`acteur` au sein du système.
 
 # Questions fréquentes
 
